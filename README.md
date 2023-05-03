@@ -1,7 +1,3 @@
 <h1 align="center"> CARDAPIO ESCOLAR </h1>
-https://user-images.githubusercontent.com/130568579/235908847-9802a709-60c5-43b7-a8ab-5cb6d5d6d072.jpeg
 
-
-
-
-
+![images](https://user-images.githubusercontent.com/130568579/235910376-e21ecf50-90e8-40c8-ab1b-78f70d3c7a23.jpeg)
