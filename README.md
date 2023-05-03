@@ -19,4 +19,4 @@
 
 <sub>O problema é que muitas das vezes os alunos chegam à escola e não sabem o cardápio, no caso, qual comida estarão servindo naquele dia e no resto da semana. Para saber qual será o cardápio do dia, os alunos precisam se deslocar das suas salas e procurar algum funcionário responsável e perguntar; assim atrapalhando a aula e até mesmo incomodando e atrapalhando os próprios funcionários.</sub>
 
-## FUNCIONALIDADES NO CARDÁPIO ESCOLAR
+## 🔨FUNCIONALIDADES NO CARDÁPIO ESCOLAR
