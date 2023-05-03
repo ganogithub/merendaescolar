@@ -11,3 +11,4 @@ raquel
 
  ![Badge em Desenvolvimento](http://github/commit-activity/:interval/:user/:repo
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
