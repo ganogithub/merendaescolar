@@ -13,6 +13,4 @@
 
 ### SOLUÇÃO
 
-
-
-<sub> ### PLOBLEMA</sub>
+### PLOBLEMA
