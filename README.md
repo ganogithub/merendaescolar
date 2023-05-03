@@ -21,7 +21,7 @@
 
 ## 🔨FUNCIONALIDADES
 
-✔️ - `Funcionalidade 1`:
+✔️ - `Funcionalidade 1`: Levar uma maior organização na merenda escolar, fazendo os alunos saberem semanalmente a merenda escolar. 
 
 ✔️ - `Funcionalidade 2`:
 
