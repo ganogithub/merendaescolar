@@ -9,4 +9,4 @@
 
 ### O projeto CARDÁPIO ESCOLAR, foi criado com intuito de poder ajudar as escolas a ter mais organização da merenda escolar, onde os alunos de forma organizada não precisão ir até a cantina para saber a merenda do dia, mas ter um sistema para informar todos do alimentos semanalmente. 
 
-![gettyimages.com.br/detail/foto](https://www.gettyimages.com.br/detail/foto/group-of-kids-holding-trays-on-lunch-line-imagem-royalty-free/200146099-001) 
+![gettyimages.com.br/detail/foto](https://www.githubsercontent.com/group-of-kids-holding-trays-on-lunch-line-imagem-royalty-free/200146099-001.jpeg) 
