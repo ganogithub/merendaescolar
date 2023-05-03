@@ -11,6 +11,6 @@
 
 ![Merenda da Escolae](https://user-images.githubusercontent.com/130568553/235984710-5766704f-3f97-4f64-adb3-39553dee99d7.jpg)
 
-### SOLUÇÃO
+### ✅SOLUÇÃO
 
 ### PLOBLEMA
