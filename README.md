@@ -30,3 +30,5 @@
 ✔️ - `Funcionalidade 4`: Ajudar com que as merendeiras tenho mais higiene no prepar do alimentos que está sendo preparado. Com uso de( toucas de cabelo, luvas, álcool e aventais.). 
 
 ✔️ - `Funcionalidade 4a`: Trazer mas segurança aos alunos, funcionários e professores, evitando alimentos vencidos e estragados. 
+
+![20230503_1728371(1).gif](https://user-images.githubusercontent.com/130568553/236043250-2d6744bc-97dc-420d-a9a2-aad03ee81697.gif)
