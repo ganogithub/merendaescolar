@@ -7,7 +7,7 @@
 
 ## SOLUÇÃO NA CARDÁPIO ESCOLAR
 
-<sub>O projeto CARDÁPIO ESCOLAR, foi criado com intuito de poder ajudar as escolas a ter mais organização da merenda escolar, onde os alunos de forma organizada não precisão ir até a cantina para saber a merenda do dia, mas ter um sistema para informar todos os alimentos semanalmente.</sub>
+> O projeto CARDÁPIO ESCOLAR, foi criado com intuito de poder ajudar as escolas a ter mais organização da merenda escolar, onde os alunos de forma organizada não precisão ir até a cantina para saber a merenda do dia, mas ter um sistema para informar todos os alimentos semanalmente.
 
 ![Merenda da Escolae](https://user-images.githubusercontent.com/130568553/235984710-5766704f-3f97-4f64-adb3-39553dee99d7.jpg)
 
