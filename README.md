@@ -13,7 +13,7 @@
 
 ### ✅SOLUÇÃO
 
-
+<sub>Solução é o desenvolvimento de um aplicativo que tenha o cardápio atualizado do dia e semana da merenda escolar para os alunos. Resultando assim uma maior organização por parte dos alunos que irão se alimentar, e os que não irão se alimentar,  assim facilitando no final do intervalo os alunos se locomover mais rápido para a sala de aula.</sub>
 
 ### ⚠️PLOBLEMA
 
