@@ -7,4 +7,4 @@ raquel
 
 ## Descrição do projeto. 
 
-# O projeto CARDÁPIO ESCOLAR e foi criado com intuito de poder ajudar escolas, a ter mas organização da merenda escolar onde só alunos de forma organizada não precisão ir até a cantina para saber a merenda do dia mas ter um sistema para informar todos do alimentos semanalmente
+### O projeto CARDÁPIO ESCOLAR e foi criado com intuito de poder ajudar escolas, a ter mas organização da merenda escolar onde só alunos de forma organizada não precisão ir até a cantina para saber a merenda do dia mas ter um sistema para informar todos do alimentos semanalmente
