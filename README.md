@@ -23,8 +23,10 @@
 
 ✔️ - `Funcionalidade 1`: Levar uma maior organização na merenda escolar, fazendo os alunos saberem semanalmente o cardápio escolar. 
 
-✔️ - `Funcionalidade 2`:
+✔️ - `Funcionalidade 2`: Diminuir a desorganização nas filas no horário do intervalo. 
 
-✔️ - `Funcionalidade 3`:
+✔️ - `Funcionalidade 3`: Fazer com que os alunos estejam mais alienados com a gestão escolar, com ideias e projetos que irão ajuda com novos cardápio é merendas diferentes. 
 
-✔️ - `Funcionalidade 4`:
+✔️ - `Funcionalidade 4`: Ajudar com que as merendeiras tenho mais higiene no prepar do alimentos que está sendo preparado. 
+
+✔️ - `Funcionalidade 4a`: Trazer mas segurança aos alunos, funcionários e professores, evitando alimentos vencidos e estragados. 
