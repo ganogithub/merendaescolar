@@ -27,6 +27,6 @@
 
 ✔️ - `Funcionalidade 3`: Fazer com que os alunos estejam mais alienados com a gestão escolar, com ideias e projetos que irão ajuda com novos cardápio é merendas diferentes. 
 
-✔️ - `Funcionalidade 4`: Ajudar com que as merendeiras tenho mais higiene no prepar do alimentos que está sendo preparado. 
+✔️ - `Funcionalidade 4`: Ajudar com que as merendeiras tenho mais higiene no prepar do alimentos que está sendo preparado. Com uso de( toucas de cabelo, luvas, e álcool). 
 
 ✔️ - `Funcionalidade 4a`: Trazer mas segurança aos alunos, funcionários e professores, evitando alimentos vencidos e estragados. 
