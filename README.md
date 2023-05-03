@@ -8,4 +8,4 @@ raquel
  ![Badge em Desenvolvimento](http://aur/version/:packageName
 /github/
 
- ![Badge em Desenvolvimento](http:/commit-activity/:interval/:user/:repo
+ ![Badge em Desenvolvimento](http://github/commit-activity/:interval/:user/:repo
