@@ -34,5 +34,6 @@
 
 ![20230503_1728371(1).gif](https://user-images.githubusercontent.com/130568553/236043250-2d6744bc-97dc-420d-a9a2-aad03ee81697.gif)
 
-## 🛠️UTILIZAÇÃO DO APLICATIVO
+## 🛠️ABRIR E RODAR O PROJETO
 
+Após baixar o projeto, você pode abrir com o `Android Studio`. Para isso, na tela de launcher clique em:
