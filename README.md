@@ -53,6 +53,4 @@ Agradeço, aos meus colegas que com dedicação e tempo me ajudarão na constru�
 
 ## APOIADORES
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Raquel Baraúna</sub>](https://github.com/raquelbarauna) 
-
-https://github.com/raquelbarauna
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub> Raquel Baraúna</sub>](https://github.com/raquelbarauna) 
