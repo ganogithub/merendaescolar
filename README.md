@@ -56,3 +56,6 @@ Agradeço, aos meus colegas que com dedicação e tempo me ajudarão na constru�
 https://github.com/ganogithub
 https://github.com/raquelbarauna
 https://github.com/corujaredargom
+https://github.com/Rodrigo071
+https://github.com/orogerioliveira
+https://github.com/francojoao
