@@ -46,3 +46,7 @@ Após baixar o projeto, você pode abrir com o `Android Studio`. Para isso, na t
 O Android Studio deve executar algumas tasks do Gradle para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆
 
 Esperamos poder expandir essa plataforma para outros tipos de dispositivos como **iOS, BlackBerry** entre outras. 
+
+## 👫CONTRIBUIDORES
+
+Agradeço, aos meus colegas que com dedicação e tempo me ajudarão na construção desse trabalho, com idéias e no preparar desse projeto. [Contribuir].
