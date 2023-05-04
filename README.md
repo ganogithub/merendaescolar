@@ -52,5 +52,3 @@ Esperamos poder expandir essa plataforma para outros tipos de dispositivos como 
 Agradeço, aos meus colegas que com dedicação e tempo me ajudarão na construção desse trabalho, com idéias e no preparar desse projeto. [Contribuir].
 
 ## APOIADORES
-
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub> Raquel Baraúna</sub>](https://github.com/raquelbarauna) 
