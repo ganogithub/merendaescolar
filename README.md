@@ -50,3 +50,5 @@ Esperamos poder expandir essa plataforma para outros tipos de dispositivos como 
 ## 👫CONTRIBUIDORES
 
 Agradeço, aos meus colegas que com dedicação e tempo me ajudarão na construção desse trabalho, com idéias e no preparar desse projeto. [Contribuir].
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/facebook/docusaurus/graphs/contributors"><img src="https://opencollective.com/Docusaurus/contributors.svg?width=890&button=false" /></a>
